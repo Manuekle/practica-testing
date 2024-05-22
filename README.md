@@ -32,7 +32,7 @@ Para crear los archivos de prueba, debemos crear una carpeta llamada `test/specs
 Para ejecutar las pruebas, debemos ejecutar el siguiente comando en la terminal:
 
 ```bash
-npx wdio run wdio.conf.js
+npx wdio run wdio.conf.ts
 ```
 
 Este comando ejecutará las pruebas y mostrará los resultados en la terminal.
