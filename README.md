@@ -17,11 +17,11 @@ Para inicializar el proyecto, primero debemos crear una carpeta para el proyecto
 npm init wdio .
 ```
 
-Este comando creará un archivo de configuración llamado `wdio.conf.js` en la raíz del proyecto.
+Este comando creará un archivo de configuración llamado `wdio.conf.ts` en la raíz del proyecto.
 
 ## Configurar el archivo de configuración
 
-El archivo de configuración `wdio.conf.js` contiene la configuración del proyecto. Puedes modificar este archivo para ajustar la configuración a tus necesidades.
+El archivo de configuración `wdio.conf.ts` contiene la configuración del proyecto. Puedes modificar este archivo para ajustar la configuración a tus necesidades.
 
 ## Crear los archivos de prueba
 
