@@ -49,11 +49,11 @@ Que framework de pruebas quieres usar, selecciona `Mocha`.
 
 ¿Quieres que ejecute `npm install` para instalar las dependencias?, selecciona `Yes`.
 
-Este comando creará un archivo de configuración llamado `wdio.conf.js` en la raíz del proyecto.
+Este comando creará un archivo de configuración llamado `wdio.conf.ts` en la raíz del proyecto.
 
 ## Configurar el archivo de configuración
 
-El archivo de configuración `wdio.conf.js` contiene la configuración del proyecto. Puedes modificar este archivo para ajustar la configuración a tus necesidades.
+El archivo de configuración `wdio.conf.ts` contiene la configuración del proyecto. Puedes modificar este archivo para ajustar la configuración a tus necesidades.
 
 ## Crear los archivos de prueba
 
@@ -76,7 +76,7 @@ npm install
 Para ejecutar las pruebas, debemos ejecutar el siguiente comando en la terminal:
 
 ```bash
-npx wdio run wdio.conf.js
+npx wdio run wdio.conf.ts
 ```
 
 Este comando ejecutará las pruebas y mostrará los resultados en la terminal.
